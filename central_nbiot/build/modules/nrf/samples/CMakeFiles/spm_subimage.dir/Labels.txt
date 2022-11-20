@@ -1,0 +1,13 @@
+# Target labels
+ spm_subimage
+# Source files and their labels
+C:/Projects/Thesis/vertical_farming/project/central_nbiot/build/modules/nrf/samples/CMakeFiles/spm_subimage
+C:/Projects/Thesis/vertical_farming/project/central_nbiot/build/modules/nrf/samples/CMakeFiles/spm_subimage.rule
+C:/Projects/Thesis/vertical_farming/project/central_nbiot/build/modules/nrf/samples/CMakeFiles/spm_subimage-complete.rule
+C:/Projects/Thesis/vertical_farming/project/central_nbiot/build/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-build.rule
+C:/Projects/Thesis/vertical_farming/project/central_nbiot/build/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-configure.rule
+C:/Projects/Thesis/vertical_farming/project/central_nbiot/build/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-download.rule
+C:/Projects/Thesis/vertical_farming/project/central_nbiot/build/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-install.rule
+C:/Projects/Thesis/vertical_farming/project/central_nbiot/build/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-mkdir.rule
+C:/Projects/Thesis/vertical_farming/project/central_nbiot/build/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-patch.rule
+C:/Projects/Thesis/vertical_farming/project/central_nbiot/build/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-update.rule

@@ -1,0 +1,56 @@
+{
+	"folders": [
+		{
+			"name": "sensor_node",
+			"path": "../../sensor_node"
+		},
+		{
+			"name": "central_node",
+			"path": "../../central_node"
+		},
+		{
+			"name": "central_nbiot",
+			"path": ".."
+		},
+		{
+			"name": "code_relocation",
+			"path": "../../code_relocation"
+		},
+		{
+			"name": "hello_world",
+			"path": "../../hello_world"
+		},
+		{
+			"name": "i2c_drv",
+			"path": "../../i2c_drv"
+		}
+	],
+	"settings": {
+		"nrf-connect.topdir": "${nrf-connect.sdk:1.9.1}",
+		"nrf-connect.toolchain.path": "${nrf-connect.toolchain:1.9.1}",
+		"files.associations": {
+			"adcctrl.h": "c",
+			"nrfx.h": "c",
+			"nrfx_config.h": "c",
+			"adc.h": "c",
+			"stdint.h": "c",
+			"stdbool.h": "c",
+			"device.h": "c",
+			"adc_interface.h": "c",
+			"light_sensor.h": "c",
+			"lbs.h": "c",
+			"nrfx_wdt.h": "c",
+			"nrf_wdt.h": "c",
+			"watchdog.h": "c",
+			"common.h": "c"
+		},
+		"nrf-connect.applications": [
+			"c:\\Projects\\Thesis\\vertical_farming\\project\\sensor_node",
+			"c:\\Projects\\Thesis\\vertical_farming\\project\\central_node",
+			"c:\\Projects\\Thesis\\vertical_farming\\project\\central_nbiot",
+			"c:\\Projects\\Thesis\\vertical_farming\\project\\code_relocation",
+			"c:\\Projects\\Thesis\\vertical_farming\\project\\blinky",
+			"c:\\Projects\\Thesis\\vertical_farming\\project\\i2c_drv"
+		]
+	}
+}

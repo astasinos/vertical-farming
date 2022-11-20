@@ -1,0 +1,2 @@
+osource "c:/Projects/Thesis/vertical_farming/project/peripheral_lbs/boards/shields/*/Kconfig.defconfig"
+osource "C:/Users/dawnm/ncs/v1.9.1/nrf/boards/shields/*/Kconfig.defconfig"
